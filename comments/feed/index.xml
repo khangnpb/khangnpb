@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	Comments for Nguyễn Phúc Bình Khang	</title>
-	<atom:link href="http://localhost/khangnpb/comments/feed/?simply_static_page=230" rel="self" type="application/rss+xml" />
-	<link>http://localhost:8888/khangnpb</link>
+	<atom:link href="http://localhost/khangnpb/comments/feed/?simply_static_page=332" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>nguyenphucbinhkhang@gmail.com</description>
-	<lastBuildDate>Sun, 26 Feb 2023 05:27:25 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Feb 2023 09:28:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,12 +19,43 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>
+		Comment on I vs CSE JobFair 2022 by khangnpb		</title>
+		<link>/2023/02/26/i-vs-jobfair-cse-2022/#comment-4</link>
+
+		<dc:creator><![CDATA[khangnpb]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 09:28:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=73#comment-4</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2023/02/26/i-vs-jobfair-cse-2022/#comment-3&quot;&gt;khangnpb&lt;/a&gt;.
+
+hahaa]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2023/02/26/i-vs-jobfair-cse-2022/#comment-3">khangnpb</a>.</p>
+<p>hahaa</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on I vs CSE JobFair 2022 by khangnpb		</title>
+		<link>/2023/02/26/i-vs-jobfair-cse-2022/#comment-3</link>
+
+		<dc:creator><![CDATA[khangnpb]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 09:27:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=73#comment-3</guid>
+
+					<description><![CDATA[cxCZCZXCXC]]></description>
+			<content:encoded><![CDATA[<p>cxCZCZXCXC</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
 		Comment on Hello world! by khangnpb		</title>
-		<link>http://localhost:8888/khangnpb/2023/02/26/hello-world/#comment-2</link>
+		<link>/2023/02/26/hello-world/#comment-2</link>
 
 		<dc:creator><![CDATA[khangnpb]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2023 05:17:02 +0000</pubDate>
-		<guid isPermaLink="false">http://localhost:8888/khangnpb/?p=1#comment-2</guid>
+		<guid isPermaLink="false">/?p=1#comment-2</guid>
 
 					<description><![CDATA[halo]]></description>
 			<content:encoded><![CDATA[<p>halo</p>
@@ -34,11 +65,11 @@
 		<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>http://localhost:8888/khangnpb/2023/02/26/hello-world/#comment-1</link>
+		<link>/2023/02/26/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sun, 26 Feb 2023 05:12:29 +0000</pubDate>
-		<guid isPermaLink="false">http://localhost:8888/khangnpb/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
