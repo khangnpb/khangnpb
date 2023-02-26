@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Nguyễn Phúc Bình Khang</title>
+	<atom:link href="http://localhost/khangnpb/feed/?simply_static_page=28" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>nguyenphucbinhkhang@gmail.com</description>
+	<lastBuildDate>Sun, 26 Feb 2023 08:19:48 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/02/cropped-a-1-150x150.png</url>
+	<title>Nguyễn Phúc Bình Khang</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>I vs CSE JobFair 2022</title>
+		<link>/2023/02/26/i-vs-jobfair-cse-2022/</link>
+					<comments>/2023/02/26/i-vs-jobfair-cse-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[khangnpb]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 08:19:10 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=73</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="73" class="elementor elementor-73">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3cc14bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3cc14bd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6429832" data-id="6429832" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-68662fe elementor-widget elementor-widget-text-editor" data-id="68662fe" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2023/02/26/i-vs-jobfair-cse-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Trip to Nha Trang</title>
+		<link>/2023/02/26/trip-to-nha-trang/</link>
+					<comments>/2023/02/26/trip-to-nha-trang/#respond</comments>
+		
+		<dc:creator><![CDATA[khangnpb]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 08:17:37 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=66</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="66" class="elementor elementor-66">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-faea57b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="faea57b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-55025c9" data-id="55025c9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5c32e46 elementor-widget elementor-widget-text-editor" data-id="5c32e46" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2023/02/26/trip-to-nha-trang/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>I build this web by WorldPress</title>
+		<link>/2023/02/26/i-build-this-web-by/</link>
+					<comments>/2023/02/26/i-build-this-web-by/#respond</comments>
+		
+		<dc:creator><![CDATA[khangnpb]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 08:09:27 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/?p=58</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="58" class="elementor elementor-58">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-32c686f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="32c686f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-93903f6" data-id="93903f6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7fbfd23 elementor-widget elementor-widget-text-editor" data-id="7fbfd23" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2023/02/26/i-build-this-web-by/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>/2023/02/26/hello-world/</link>
+					<comments>/2023/02/26/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[khangnpb]]></dc:creator>
+		<pubDate>Sun, 26 Feb 2023 05:12:29 +0000</pubDate>
+				<category><![CDATA[About me]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-53f33116 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53f33116" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ad38de9" data-id="1ad38de9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-55d12b23 elementor-widget elementor-widget-text-editor" data-id="55d12b23" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/2023/02/26/hello-world/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
